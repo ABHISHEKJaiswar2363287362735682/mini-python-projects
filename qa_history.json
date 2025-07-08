@@ -1,0 +1,22 @@
+[
+    {
+        "question": "what is AI",
+        "answer": "AI stands for Artificial Intelligence, which refers to the development of computer systems or machines that can perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, perception, and language understanding. AI is designed to work autonomously and adapt to new inputs and environments to complete a specific task effectively."
+    },
+    {
+        "question": "agent architecture",
+        "answer": "In the provided context, the text doesn't directly discuss agent architecture. However, in AI, an agent architecture typically refers to the combination of the agent's sensors, actuators, a decision-making capability, and a way of learning to map sensors to actuators. Agent architectures can vary greatly, with examples including simple reflex agents, model-based reflex agents, goal-based agents, utility-based agents, and learning agents. If you need more specific information about AI architecture or aspects related to the text, please ask a more targeted question."
+    },
+    {
+        "question": "AI application AI applications",
+        "answer": "AI applications refer to the various fields and areas where artificial intelligence technology is used to perform tasks, make decisions, or recognize patterns. These applications can be broadly categorized into several domains such as:\n\n1. Future of AI: With advancements in AI, there are new applications being developed and researched across a variety of industries.\n\n2. General AI: This type of AI aims to create machines that can perform any intellectual task that a human can do. However, such AI still remains a work in progress.\n\n3. AI in healthcare: AI is being used to improve healthcare services through medical imaging, disease diagnosis, drug discovery, telemedicine, and patient care management.\n\n4. AI in education: AI is being applied to develop personalized learning, intelligent tutoring systems, automated grading, and content delivery in education.\n\n5. AI in daily life: AI is affecting daily life in various ways, from voice assistants and smart home devices to autonomous vehicles and search engines, enhancing efficiency and user experience."
+    },
+    {
+        "question": "AI problems",
+        "answer": "The context provided does not detail potential problems or challenges related to AI. However, some common concerns in AI primarily revolve around privacy issues, job displacement due to automation, lack of transparency in decision-making, and ethical considerations in AI applications, among others.\n\nPrivacy issues can happen if AI systems collect, process, or use personal data without proper consent, leading to potential breaches and violations of user privacy. Job displacement due to automation is another major concern, as AI systems and automation technologies can contribute to job losses in specific industries. Lack of transparency occurs when the inner workings of an AI system are hidden, making it difficult for users to understand how the AI system makes decisions. Finally, ethical concerns may arise when AI systems make decisions that could potentially harm individuals or groups or violate human rights, such as using facial recognition in biased or discriminatory ways."
+    },
+    {
+        "question": "yahan se Ham sab",
+        "answer": "In this document, \"Ham sab\" is a Hindi term which translates to \"all of us\" in English. The document discusses the introduction to Artificial Intelligence (AI), and its applications in various sectors such as the future of AI, AI in healthcare, AI in education, and AI in daily life. It also mentions discussions related to AI job displacement ethical concerns."
+    }
+]

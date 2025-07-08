@@ -1,0 +1,22 @@
+[
+    {
+        "user": "tell me the latest news",
+        "bot": "Here are top headlines:\n1. Nintendo has now sold over 5 million Nintendo Switch 2 consoles worldwide - My Nintendo News\n2. Tinder\u2019s mandatory facial recognition check comes to the US - The Verge\n3. July 2025's PS Plus Essential Games Available to Download Now - Push Square\n4. Microsoft Removes Password Management from Authenticator App Starting August 2025 - The Hacker News\n5. Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - CNBC"
+    },
+    {
+        "user": "new sports news",
+        "bot": "Here are top headlines:\n1. Nintendo has now sold over 5 million Nintendo Switch 2 consoles worldwide - My Nintendo News\n2. Tinder\u2019s mandatory facial recognition check comes to the US - The Verge\n3. July 2025's PS Plus Essential Games Available to Download Now - Push Square\n4. Microsoft Removes Password Management from Authenticator App Starting August 2025 - The Hacker News\n5. Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - CNBC"
+    },
+    {
+        "user": "tell me some news",
+        "bot": "Here are top headlines:\nNo news found for the given category"
+    },
+    {
+        "user": "news",
+        "bot": "Here are top headlines:\nNo news found for the given category"
+    },
+    {
+        "user": "tell me some news",
+        "bot": "Here are top headlines:\n1. Nintendo has now sold over 5 million Nintendo Switch 2 consoles worldwide - My Nintendo News\n2. Tinder\u2019s mandatory facial recognition check comes to the US - The Verge\n3. July 2025's PS Plus Essential Games Available to Download Now - Push Square\n4. Microsoft Removes Password Management from Authenticator App Starting August 2025 - The Hacker News\n5. Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - CNBC"
+    }
+]

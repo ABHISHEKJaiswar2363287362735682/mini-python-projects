@@ -1,0 +1,10 @@
+[
+    {
+        "user": "hello how",
+        "bot": "Hello! How can I help you today? If you have any questions or need assistance with something, feel free to ask. I'm here to help!"
+    },
+    {
+        "user": "hello",
+        "bot": "Hello there! How can I help you today? Whether you have questions about a specific topic, need help with a language translation, or just want to chat, I'm here to assist you. What would you like to talk about?"
+    }
+]

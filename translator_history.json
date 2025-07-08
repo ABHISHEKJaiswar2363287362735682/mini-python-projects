@@ -1,0 +1,72 @@
+[
+    {
+        "timestamp": "2025-06-30 08:16:23",
+        "original": "kya kar",
+        "translated": "kya kar",
+        "source_language": "hi",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:16:34",
+        "original": "kya kar rahe ho",
+        "translated": "kya kar rahe ho",
+        "source_language": "hi",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:16:46",
+        "original": "KEM chho Majama",
+        "translated": "\u0924\u0941\u092e \u0915\u094d\u092f\u094b\u0902 \u092e\u091c\u0947\u0926\u093e\u0930 \u0939\u094b",
+        "source_language": "gu",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:17:01",
+        "original": "what are you doing",
+        "translated": "\u0906\u092a \u0915\u094d\u092f\u093e \u0915\u0930 \u0930\u0939\u0947 \u0939\u094b",
+        "source_language": "en",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:17:17",
+        "original": "what the hell this is",
+        "translated": "\u092f\u0939 \u0915\u094d\u092f\u093e \u0939\u0948",
+        "source_language": "en",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:17:25",
+        "original": "what the fuck",
+        "translated": "\u0915\u094d\u092f\u093e \u092c\u0915\u0935\u093e\u0938 \u0939\u0948",
+        "source_language": "en",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:17:33",
+        "original": "where are you going",
+        "translated": "\u0906\u092a \u0915\u0939\u093e\u0902 \u091c\u093e \u0930\u0939\u0947 \u0939\u0948\u0902",
+        "source_language": "en",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:17:46",
+        "original": "why the hell it is like that",
+        "translated": "\u0915\u094d\u092f\u094b\u0902 \u0928\u0930\u0915 \u0910\u0938\u093e \u0939\u0948",
+        "source_language": "en",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:17:59",
+        "original": "stop translation",
+        "translated": "\u0905\u0928\u0941\u0935\u093e\u0926 \u092c\u0902\u0926 \u0915\u0930\u094b",
+        "source_language": "en",
+        "target_language": "hi"
+    },
+    {
+        "timestamp": "2025-06-30 08:18:12",
+        "original": "stop translater",
+        "translated": "\u0905\u0928\u0941\u0935\u093e\u0926 \u092c\u0902\u0926 \u0915\u0930\u094b",
+        "source_language": "en",
+        "target_language": "hi"
+    }
+]
